@@ -1,4 +1,4 @@
-import splitter from "../index";
+import { splitter } from "../index";
 
 const names = [
   {
