@@ -390,4 +390,4 @@ const splitter = (fullname: string) => {
   return name;
 };
 
-export default splitter;
+export { splitter };
