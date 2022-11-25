@@ -7,7 +7,7 @@ Usage:
 ---
 
 ```javascript
-import splitter from 'human-name-splitter'
+import {splitter} from "human-name-splitter"
 
 const result = splitter("Mr. Mario De Vacelo Parirato IV")
 console.log(result)
